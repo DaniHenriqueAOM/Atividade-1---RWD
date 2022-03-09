@@ -1,0 +1,10 @@
+<!doctype>
+<html>
+	<head>
+		<title> Index </title>
+	</head>
+	<body>
+		<h1> Olá mundo! </h1> 
+		<p> data : 09/03/2022 </p>
+	</body>
+</html>
