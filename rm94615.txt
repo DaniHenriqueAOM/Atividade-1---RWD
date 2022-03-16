@@ -11,5 +11,13 @@
 			<p> cidade natal : Embu-guaçu </p>
 			<p> uf : São Paulo </p>
 		</div>
+
+        <!-- AQUI COMEÇA O BLOCO DE TRABALHO-->
+		<div>
+            <label for="">Usuário</label>
+            <input type="text" placeholder="Digite o nome de Usuário">
+            <button>LOGIN</button>
+		</div>
+		
 	</body>
 </html>
